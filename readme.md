@@ -8,7 +8,7 @@
 
 This is a web application built using JavaScript, HTML, and CSS that allows users to search for their favorite Marvel superheroes and view their detailed information. The app also allows users to add characters to their favorites list for easy access.
 
-
+#### Live Link : ('https://arshu200.github.io/SuperHeroHunter/')
 
 ## Features
 
@@ -21,6 +21,7 @@ This is a web application built using JavaScript, HTML, and CSS that allows user
 - Javascript
 - HTML
 - CSS
+- BootStrap
 - Marvel API('https://developer.marvel.com/')
 
 ## Usage
